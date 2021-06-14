@@ -1,22 +1,14 @@
-Name
+Portfolio Sample
 ====
 
-プロジェクトの概要説明
+ポートフォリオのサンプルです。
 
-##デモ
-デモのURLや、スクリーンショットを記載する。
+[WEBサイトを見る](https://tec-is-portofolio-sample.herokuapp.com/)
+
+<img src="https://user-images.githubusercontent.com/85908291/121972433-0cf42180-cdb6-11eb-90bb-d26ecaf85d31.png" alt="マイポートフォリオ">
 
 ##利用している技術
-使った言語やツールなどのバージョンを記載する。
+HTML / CSS
 
 ##インストール方法
-インストールの仕方を記載する。
-
-###その他に記載すると良い事項
-*システム構成図
-*使い方
-  *インストール方法
-  *テスト方法
-  *デプロイ方法
-*こだわりポイント
-*ライセンス情報
+そのままindex.htmlをブラウザで開くと閲覧できます。
